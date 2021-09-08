@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Rhaanx
+- 🌱 Knowledge: HTML, CSS, JS, PHP, LUA
+- 📫 Discord: Rhaanx#6582 
